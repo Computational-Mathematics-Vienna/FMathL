@@ -1,2 +1,9 @@
-# FMathL
-Formal Mathematical Language
+# FMathL - Formal Mathematical Language
+
+FMathL (= Formal Mathematical Language) is the working title for a modeling and documentation language for mathematics, suited to the habits of mathematicians, to be developed in a project at the University of Vienna.
+
+The project complements efforts for formalizing mathematics from the perspective of computer science and automated theorem proving. In the long run, the FMathL system might turn into a user-friendly automatic mathematical assistant for retrieving, editing, and checking mathematics (but also computer science and theoretical physics) in both informal, partially formalized, and completely formalized mathematical form.
+
+The project is part of a greater [vision](http://arnold-neumaier.at/FMathL/vision.html), the creation of an expert system called [MathResS](http://arnold-neumaier.at/FMathL/mathress.html) ( = Mathematical Research System) that supports mathematicians and scientists dealing with mathematics in a comprehensive way. Part of the project is done in collaboration with the software company [DAGOPT](http://www.dagopt.com/en/home).
+
+Related projects by others are [MathNat - Mathematical texts in controlled natural language](https://tel.archives-ouvertes.fr/tel-00680095) (by Muhammad Humayoun), [Naproche - Natural language proof checking](http://www.naproche.net/) (by Marcos Cramer et al., until 2013), [A Language for Mathematics](http://philmat.oxfordjournals.org/content/early/2016/09/13/philmat.nkw020.short?rss=1) (by Mohan Ganesalingam), [A Fully Automatic Theorem Prover with Human-Style Output](http://link.springer.com/article/10.1007/s10817-016-9377-1) (by Ganesalingam and Gowers), [A language for mathematical knowledge management](http://www.andrew.cmu.edu/user/avigad/Papers/mkm/) (by Kieffer, Avigad and Friedman), [Mathcat](http://www-al.nii.ac.jp/mathcat-project/) (by Akiko Aizawa), and [FPL - the Formal Proving Language](https://www.bookofproofs.org/branches/fpl-formal-proving-language/) (by Andreas Piotrowski) 
