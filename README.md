@@ -69,7 +69,7 @@ supports dynamic grammar additions, incremental parsing, prediction, rule labels
 
 # Software created by 2012
 
-[Concise}(http://www.mat.univie.ac.at/~dferi/concise.html), a graph-based universal programming system for manipulating semantic information stored in the semantic memory. It combines in a novel way the capabilities of imperative programming and object-oriented programming. (Online is only an old version with much less capability than described in the thesis by Kevin Kofler.)
+[Concise](http://www.mat.univie.ac.at/~dferi/concise.html), a graph-based universal programming system for manipulating semantic information stored in the semantic memory. It combines in a novel way the capabilities of imperative programming and object-oriented programming. (Online is only an old version with much less capability than described in the thesis by Kevin Kofler.)
 
 [DynGenPar](http://www.tigen.org/kevin.kofler/fmathl/dyngenpar/), an innovative parser based on a new principle combining bottom-up and top-down features of traditional parsers. The most unique feature of the algorithm is the possibility to add rules to the grammar at almost any time, even during parsing.
 
