@@ -54,7 +54,7 @@ Loosely related to FMathL is my lecture
 
 A. Neumaier, [Artificial Intelligence, Mathematics, and Consciousness](FMathL/AI2016slides.pdf), Slides, 2016.
 
-## Important references:
+## Important references
 
 P. Schodl, [Foundations for a self-reflective, context-aware semantic representation of mathematical specifications](http://othes.univie.ac.at/16941/1/2011-07-06_9947489.pdf), Ph.D. thesis, Faculty of Mathematics, University of Vienna (2011).
 
