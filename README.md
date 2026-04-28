@@ -64,7 +64,7 @@ A. Pichler, [Semantische Repräsentation mathematischer Konzepte](http://arnold-
 
 K. Kofler, [Dynamic Generalized Parsing and Natural Mathematical Language](https://www.tigen.org/kevin.kofler/fmathl/dyngenpar/diss.pdf), Ph.D. thesis, Faculty of Mathematics, University of Vienna (2017).
 
-[DynGenPar - Dynamic Generalized Parser](https://www.tigen.org/kevin.kofler/fmathl/dyngenpar/ for generalized context free grammars (by Kevin Kofler)
+[DynGenPar - Dynamic Generalized Parser](https://www.tigen.org/kevin.kofler/fmathl/dyngenpar/) for generalized context free grammars (by Kevin Kofler)
 supports dynamic grammar additions, incremental parsing, prediction, rule labels, custom parse actions, arbitrary token sources, hierarchical parsing, parallel multiple context-free grammars (PMCFGs), and next token constraints.
 
 # Software created by 2012
