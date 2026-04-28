@@ -1,6 +1,6 @@
 # FMathL - Formal Mathematical Language
 
-FMathL (= Formal Mathematical Language) is the working title for a modeling and documentation language for mathematics, suited to the habits of mathematicians, to be developed in a project at the University of Vienna.
+FMathL (= Formal Mathematical Language) is the working title for a modeling and documentation language for mathematics, suited to the habits of mathematicians, to be developed in a project at the University of Vienna (see also [FMathl website](https://arnold-neumaier.at/FMathL.html)).
 
 The project complements efforts for formalizing mathematics from the perspective of computer science and automated theorem proving. In the long run, the FMathL system might turn into a user-friendly automatic mathematical assistant for retrieving, editing, and checking mathematics (but also computer science and theoretical physics) in both informal, partially formalized, and completely formalized mathematical form.
 
