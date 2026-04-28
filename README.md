@@ -37,4 +37,40 @@ The goal of the FMathL project is to combine
 - the high-level discipline of the [CVX](https://cvxr.com/cvx/) system for solving convex programming problems and enforcing their semantic correctness, and
 - the semantic clarity of the [Z notation](http://www.zuser.org) for the precise specification of concepts and statements.
 
-We believe that this goal is reachable, and that an easy-to-use such system will change the way modeling is done in practice. See [A modeling system for mathematics](FMathL/project.pdf) for some background information. 
+We believe that this goal is reachable, and that an easy-to-use such system will change the way modeling is done in practice. See [A modeling system for mathematics](FMathL/project.pdf) for some background information.
+
+# FMathL project update 2016-2017
+A. Neumaier, The communication of mathematics, Lecture, Isaac Newton Institute for Mathematical Sciences, Cambridge 2017.
+[video of the lecture](https://www.newton.ac.uk/seminar/21863/)
+
+A. Neumaier, Concise - a synthesis of types, grammars, semantics Lecture, Isaac Newton Institute for Mathematical Sciences, Cambridge 2017.
+[video of the lecture](https://www.newton.ac.uk/seminar/21967/)
+
+A. Neumaier, [From Informal to Formal Mathematics](FMathL/inFormal.pdf), Slides of a lecture presented at VINO 2017 (Technical University Vienna, Austria)
+
+These lectures summarize parts of the master thesis by Andreas Pichler and the Ph.D. thesis by Kevin Kofler; see the references below.
+
+Loosely related to FMathL is my lecture
+
+A. Neumaier, [Artificial Intelligence, Mathematics, and Consciousness](FMathL/AI2016slides.pdf), Slides, 2016.
+
+##Important references
+
+P. Schodl, [Foundations for a self-reflective, context-aware semantic representation of mathematical specifications](http://othes.univie.ac.at/16941/1/2011-07-06_9947489.pdf), Ph.D. thesis, Faculty of Mathematics, University of Vienna (2011).
+
+F. Domes, A. Neumaier, K. Kofler, P. Schodl, H. Schichl, [Concise Manual, Version 0.91](http://arnold-neumaier.at/ms/ConciseManual.pdf), Faculty of Mathematics, University of Vienna (2014).
+
+A. Pichler, [Semantische Repräsentation mathematischer Konzepte](http://arnold-neumaier.at/ms/pichlerMaster.pdf), Masterarbeit, Faculty of Mathematics, University of Vienna (2016).
+
+K. Kofler, [Dynamic Generalized Parsing and Natural Mathematical Language](https://www.tigen.org/kevin.kofler/fmathl/dyngenpar/diss.pdf), Ph.D. thesis, Faculty of Mathematics, University of Vienna (2017).
+
+[DynGenPar - Dynamic Generalized Parser](https://www.tigen.org/kevin.kofler/fmathl/dyngenpar/ for generalized context free grammars (by Kevin Kofler)
+supports dynamic grammar additions, incremental parsing, prediction, rule labels, custom parse actions, arbitrary token sources, hierarchical parsing, parallel multiple context-free grammars (PMCFGs), and next token constraints.
+
+# Software created by 2012
+
+[Concise}(http://www.mat.univie.ac.at/~dferi/concise.html), a graph-based universal programming system for manipulating semantic information stored in the semantic memory. It combines in a novel way the capabilities of imperative programming and object-oriented programming. (Online is only an old version with much less capability than described in the thesis by Kevin Kofler.)
+
+[DynGenPar](http://www.tigen.org/kevin.kofler/fmathl/dyngenpar/), an innovative parser based on a new principle combining bottom-up and top-down features of traditional parsers. The most unique feature of the algorithm is the possibility to add rules to the grammar at almost any time, even during parsing.
+
+[Papers and technical reports until 2012](http://arnold-neumaier.at/FMathL/papers/list.html) 
