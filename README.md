@@ -14,7 +14,7 @@ FMathL (= Formal Mathematical Language) is the working title for a modeling and 
 
 If you'd like to be actively involved in the FMathL project, please contact [Arnold Neumaier](mailto:Arnold.Neumaier@univie.ac.at).
 
-Part of the goals associated with the FMathL language were realized through the project A modeling system for mathematics (MoSMath), supported from 2008-2011 by a grant of the Austrian Science Foundation FWF under contract number [P20631](https://www.fwf.ac.at/entdecken/forschungsradar?&ifs_app_states_0=id:0;title:P20631).
+Part of the goals associated with the FMathL language were realized through the project A modeling system for mathematics (MoSMath), supported from 2008-2011 by a grant of the Austrian Science Foundation FWF under contract number [P20631]([https://www.fwf.ac.at/entdecken/forschungsradar?&ifs_app_states_0=id:0;title:P20631](https://www.fwf.ac.at/entdecken/forschungsradar?&ifs_app_states_0=id:0;title:P20631;type:default;sSearchTerm:P20631;iSearchIndex:1%23%23c2VhcmNocHJvZmlsZS1zdGFuZGFyZA%3D%3D;acExtendSynonyms:false;acExtendTranslations:false;connectorId:all;rlViewMode:full;sQueryId:1%23%23c2VhcmNocHJvZmlsZS1zdGFuZGFyZA%3D%3D)).
 
 Another FMathL-related project An automatic mathematical research system (MathResS) never got off the ground, due to lack of funding. All referees in all versions submitted found the project to be far too ambitious to be realizable.
 
