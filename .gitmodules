@@ -1,0 +1,3 @@
+[submodule "OConcise"]
+	path = OConcise
+	url = https://github.com/jezekr/OConcise
